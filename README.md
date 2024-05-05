@@ -269,6 +269,6 @@ In this Project, we deployed a voting app on AWS EKS. Once deployed and up and r
 
 ## **Team Members/Collaborators**
 
-Hrutin Suriya Kotni (21BDS031)[]
+Hrutin Suriya Kotni (21BDS031)[https://github.com/Cleverest-Idiot]
 N Yaswanth Kumar (21BDS043)[https://github.com/YASWANTH-043]
-V Pranav (21BDS068)[]
+V Pranav (21BDS068)[https://github.com/Pranav0223]
